@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+*.zip
+*.rar
+*.db
+*.sqlite
+public/uploads/
